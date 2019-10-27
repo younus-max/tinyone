@@ -1,0 +1,149 @@
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*Header*/
+	.menu ul li a{
+		text-align: right;
+		padding: 0!important;
+	}
+	/*Slider*/
+	.slider {
+		padding-bottom: 70px;
+	}
+	/*Inspire*/
+	.inspire {
+		margin-top: 10px;
+	}
+	.inspire h1 {
+		font-size: 28px;
+	}
+	.inspire h2 {
+		font-size: 18px;
+		word-spacing: 0;
+		letter-spacing: 0;
+	}
+	.inspire p {
+		word-spacing: 0px;
+	}
+	.l_inline {
+		text-align: center;
+		font-size:40px;
+	}
+	.inspire .list-inline li {
+		font-size: 40px;
+		margin-right: 20px;
+	}
+	.cid {
+		bottom: -55px;
+	}
+		/*Feature*/
+	.feature {
+    padding-top: 60px;
+    padding-bottom: 50px;
+	}
+	.c_title {
+    margin-bottom: 0;
+	}
+	.c_title h1 {
+    font-size: 28px;
+	}
+	.c_title p {
+    font-size: 18px;
+    word-spacing: 0px;
+     letter-spacing: 0px; 
+	}
+	.s_content {
+	text-align: center;
+    margin-top: 10px;
+	}
+	.p_30 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+	}
+	/*contact Start*/
+	/*Form Part*/
+	.form {
+    text-align: center;
+    margin-top: 20px;
+	}
+	.btn_custom{
+		margin-top: 20px;
+		width: 100%;
+	}
+	/*Contact*/
+	.contact {
+    padding-bottom: 50px;
+	}
+	/*footer start*/
+	.text_center_only{
+	text-align: center !important;
+	}
+	.address {
+    padding: 10px 0;
+	}
+/*footer end*/
+ 
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*Header*/
+	.menu ul li a{
+		text-align: right;
+		padding: 0!important;
+	}
+	/*Inspire*/
+	.inspire {
+		margin-top: 10px;
+	}
+	/*Feature*/
+	.feature {
+    padding-top: 70px;
+    padding-bottom: 70px;
+	}
+	.c_title p {
+    font-size: 18px;
+    word-spacing: 0;
+    letter-spacing: 0; 
+	}
+	.c_title {
+    margin-bottom: 20px;
+	}
+	.s_content {
+	text-align: center;
+	margin-top: 0;
+	}
+	.p_30 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+	}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*Header*/
+	.menu ul li a{
+		text-align: right;
+		padding: 0!important;
+	}
+	/*Slider*/
+	.inspire {
+		margin-top: 50px;
+	}
+	.feature {
+    padding-top: 70px;
+    padding-bottom: 70px;
+	}
+	.p_30 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+	}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+}

@@ -1,0 +1,41 @@
+/*font-family: 'PT Sans', sans-serif;*/
+@font-face{
+	src:url(../fonts/Helvetica-Neue-Bold.ttf);
+	font-family: Helvetica-Neue-Bold;
+} 
+
+body{
+	font-family: 'PT Sans', sans-serif;
+  
+}
+ header{
+ 	background-color: #fcdb00; 
+ 	padding: 20px 0;
+ }
+ .menu{}
+ .menu ul{}
+.menu ul li{}
+.menu ul li a{
+	font-weight: 700px;
+	font-size: 22px;
+	color: 010101!important; 
+	transition: .5s;
+	padding: 0 30px !important;
+}
+
+.menu ul li a:hover{
+	color: white !important; 
+}
+.menu ul li:last-child a{
+	padding: 0!important;
+}
+
+
+
+
+
+
+
+
+
+
